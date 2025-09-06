@@ -1,5 +1,11 @@
 # 🚀 Git Workshop - Team Collaboration Exercise
+<<<<<<< HEAD
 Phoom Saleewong
+=======
+
+KangFu
+
+>>>>>>> f536ed850de4720748aaf6bf780f6e004c5a4605
 ## 📋 Overview
 This repository is a template for the BU Git Workshop focusing on collaborative web development using Git version control. Teams of 4-5 members will practice essential Git workflows including branching, committing, and merging.
 
